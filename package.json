@@ -1,0 +1,20 @@
+{
+  "name": "bitbucket-snippet",
+  "version": "0.0.1",
+  "description": "A command-line tool for creating Bitbucket snippets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://home.jkrusinski.com:/home/jkrusinski/usbdrv/bitbucket-snippet.git"
+  },
+  "keywords": [
+    "tutorial",
+    "cli",
+    "node"
+  ],
+  "author": "Jerry Krusinski (jkrusinski.com)",
+  "license": "Apache-2.0"
+}
