@@ -16,5 +16,8 @@
     "node"
   ],
   "author": "Jerry Krusinski (jkrusinski.com)",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "bin": {
+    "snippet": "./index.js"
+  }
 }
